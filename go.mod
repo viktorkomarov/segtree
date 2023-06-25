@@ -1,4 +1,4 @@
-module segtree
+module github.com/viktorkomarov/segtree
 
 go 1.20
 
